@@ -2,12 +2,10 @@ site_name: German Notebook
 site_url: https://example.com/
 nav:
   - Home: index.md
-  - Test:
-    - Test1: test1.md
-    - Test2: test2.md
-    - New:
-      - New1:
-        - New2: new2.md
+  - Grammar:
+    - Basic Grammar: grammar/basics.md
+  - Vocabulary:
+    - Category 1: vocabulary/category1.md
 
 # theme: simple-blog
 # theme: readthedocs
