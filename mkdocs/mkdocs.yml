@@ -1,0 +1,25 @@
+site_name: German Notebook
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Test:
+    - Test1: test1.md
+    - Test2: test2.md
+    - New:
+      - New1:
+        - New2: new2.md
+
+# theme: simple-blog
+# theme: readthedocs
+# theme: material - has search
+# theme: windmill-dark - has search
+theme:
+  name: simple-blog
+  features:
+    - search.suggest
+  include_search_page: true
+  search_index_only: true
+
+
+plugins:
+  - search

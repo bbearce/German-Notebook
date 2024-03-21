@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "german-notebook"
+version = "0.1.0"
+description = ""
+authors = ["Benjamin Bearce <bbearce@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs = "^1.5.3"
+mkdocs-simple-blog = "^0.0.9"
+mkdocs-windmill-dark = "^0.2.0"
+mkdocs-material = "^9.5.14"
+mkdocs-zettelkasten = "^0.1.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
