@@ -6,10 +6,23 @@ So there are 2 branches:
 * main - code
 * gh-deploy - built site being served
 
+## Python, Poetry and Deploy
+I used Pyenv:
+```bash
+pyenv activate german-notebook
+# Initial poetry setup
+poetry config --list
+poetry config virtualenvs.create false
+poetry config virtualenvs.in-project false
+
+poetry install
+```
+
 To test and or see the site before building\pushing:
 > From root dir
 ```bash
 cd mkdocs
+mkdocs serve
 mkdocs gh-deploy
 ```
 

@@ -4,13 +4,14 @@ nav:
   - Home: index.md
   - Grammar:
     - Basic Grammar: grammar/basics.md
-  - Vocabulary:
-    - Category 1: vocabulary/category1.md
+  - Dictionary:
+    - Nouns: vocabulary/nouns.md
 
 # theme: simple-blog
 # theme: readthedocs
 # theme: material - has search
 # theme: windmill-dark - has search
+## Set name attribute below with one of above themes
 theme:
   name: simple-blog
   features:

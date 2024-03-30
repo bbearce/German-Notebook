@@ -1,7 +1,13 @@
-# Test1
+# Basic German Grammar
 
-## Section1
-section1
+## Alphabet
 
-## Section2
-section2
+ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜß
+
+## Articles
+
+* Der - Masculine
+* Die - Feminine
+* Das - Neuter
+
+## Word Position Order
