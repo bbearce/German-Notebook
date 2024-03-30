@@ -1,6 +1,6 @@
 ## Alphabet
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜẞ
+ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜẞ  
 abcdefghijklmnopqrstuvwxyzäöüß
 
 ## Articles
