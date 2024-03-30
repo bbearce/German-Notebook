@@ -1,8 +1,7 @@
-# Basic German Grammar
-
 ## Alphabet
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜß
+ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜẞ
+abcdefghijklmnopqrstuvwxyzäöüß
 
 ## Articles
 
