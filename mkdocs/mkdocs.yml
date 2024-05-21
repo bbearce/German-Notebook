@@ -6,6 +6,8 @@ nav:
     - Basic Grammar: grammar/basics.md
   - Dictionary:
     - Nouns: vocabulary/nouns.md
+    - Verbs: vocabulary/verbs.md
+    - Numbers: vocabulary/numbers.md
 
 # theme: simple-blog
 # theme: readthedocs

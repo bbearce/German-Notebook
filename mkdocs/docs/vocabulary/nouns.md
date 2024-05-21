@@ -43,6 +43,7 @@ Jetzt (Das): Now
 ## K
 Karten(n) (Die): Map, card, ticket, chart or coupon  
 Kino(s) (Das): Movie  
+Konjugation (Die): Conjugation
 Krankenhaus (Das): Hospital  
 Kunde(n) (Der): Customer  
 Kursbuck (Das): Class book  
@@ -63,6 +64,7 @@ Park (Der): Park
 Päss (Der): Passport  
 Platz (Der): Space, place and course  
 Post (Die): Post office  
+Pronomen (Das): Pronoun
 Pünktlichkeit (Die): Punctuality  
 
 ## Q
