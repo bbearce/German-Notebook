@@ -1,8 +1,8 @@
 
 ## Terminologie (Terminology)
-Pronomen (Das) - Pronoun
-Konjugation (Die) - Conjugation
-Präfix (Das) - Prefix
+Pronomen (Das) - Pronoun  
+Konjugation (Die) - Conjugation  
+Präfix (Das) - Prefix  
 
 ## A
 Abfahren - Leave
