@@ -1,11 +1,11 @@
 
 ## Terminologie (Terminology)
-Pronomen (Das) - Pronoun  
-Konjugation (Die) - Conjugation  
-Präfix (Das) - Prefix  
+Pronomen (Das): Pronoun  
+Konjugation (Die): Conjugation  
+Präfix (Das): Prefix  
 
 ## A
-Abfahren - Leave
+Abfahren: Leave
 
 | Pronoun   | Konjugation   | Präfix |
 |-----------|---------------|--------|
@@ -16,7 +16,7 @@ Abfahren - Leave
 | ihr       | fahrt         | ab     |
 | Sie       | fahren        | ab     |
 
-Anfangen - To begin
+Anfangen: To begin
 
 | Pronoun   | Konjugation   | Präfix |
 |-----------|---------------|--------|
@@ -27,7 +27,7 @@ Anfangen - To begin
 | ihr       | fangt        | an     |
 | Sie       | fangen       | an     |
 
-Ankommen - Arrive
+Ankommen: Arrive
 
 | Pronoun   | Konjugation   | Präfix |
 |-----------|---------------|--------|
@@ -38,7 +38,7 @@ Ankommen - Arrive
 | ihr       | kommt         | an     |
 | Sie       | kommen        | an     |
 
-Anrufen - Call up
+Anrufen: Call up
 
 | Pronoun   | Konjugation   | Präfix |
 |-----------|---------------|--------|
@@ -49,7 +49,7 @@ Anrufen - Call up
 | ihr       | ruft          | an     |
 | Sie       | rufen         | an     |
 
-Arbeiten - To work
+Arbeiten: To work
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -60,7 +60,7 @@ Arbeiten - To work
 | ihr       | arbeitet      |
 | Sie       | arbeiten      |
 
-Ausschlafen - To sleep in
+Ausschlafen: To sleep in
 
 | Pronoun   | Konjugation   | Präfix |
 |-----------|---------------|--------|
@@ -74,7 +74,7 @@ Ausschlafen - To sleep in
 
 ## B
 
-Beraten - To advise
+Beraten: To advise
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -85,7 +85,7 @@ Beraten - To advise
 | ihr       | beratet       |
 | Sie       | beraten       |
 
-Besuchen - To visit
+Besuchen: To visit
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -96,7 +96,7 @@ Besuchen - To visit
 | ihr       | besucht       |
 | Sie       | besuchen      |
 
-Buchstabieren - To spell
+Buchstabieren: To spell
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -111,7 +111,7 @@ Buchstabieren - To spell
 
 ## D
 
-Dürfen - To spell
+Dürfen: To spell
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -124,7 +124,7 @@ Dürfen - To spell
 
 ## E
 
-Einkaufen - To buy
+Einkaufen: To buy
 
 | Pronoun   | Konjugation   | Präfix |
 |-----------|---------------|--------|
@@ -135,7 +135,7 @@ Einkaufen - To buy
 | ihr       | kauft         | ein    |
 | Sie       | kaufen        | ein    |
 
-Einwerfen - To throw in
+Einwerfen: To throw in
 
 | Pronoun   | Konjugation   | Präfix |
 |-----------|---------------|--------|
@@ -148,7 +148,7 @@ Einwerfen - To throw in
 
 ## F
 
-Fallen - To fall
+Fallen: To fall
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -161,7 +161,7 @@ Fallen - To fall
 
 ## G
 
-Gehen - To go
+Gehen: To go
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -174,7 +174,7 @@ Gehen - To go
 
 ## H
 
-Haben - To have
+Haben: To have
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -191,7 +191,7 @@ Haben - To have
 
 ## K
 
-Kochen - To have
+Kochen: To have
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -202,7 +202,7 @@ Kochen - To have
 | ihr       | kocht         |
 | Sie       | kochen        |
 
-Können - Can you
+Können: Can you
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -217,7 +217,7 @@ Können - Can you
 
 ## M
 
-Machen - To make, do
+Machen: To make, do
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -228,7 +228,7 @@ Machen - To make, do
 | ihr       | macht         |
 | Sie       | machen        |
 
-Müssen - You must
+Müssen: You must
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -249,7 +249,7 @@ Müssen - You must
 
 ## R
 
-Rauchen - To smoke
+Rauchen: To smoke
 
 | Pronoun   | Konjugation   |
 |-----------|-------------- |
@@ -262,7 +262,7 @@ Rauchen - To smoke
 
 ## S
 
-Sagen - To say
+Sagen: To say
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -273,7 +273,7 @@ Sagen - To say
 | ihr       | sagt          |
 | Sie       | sagen         |
 
-Schenken - To give
+Schenken: To give
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -284,7 +284,7 @@ Schenken - To give
 | ihr       | schenkt       |
 | Sie       | schenken      |
 
-Schmeckt - To taste
+Schmeckt: To taste
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -295,7 +295,7 @@ Schmeckt - To taste
 | ihr       | schmeckt      |
 | Sie       | schmecken     |
 
-Schreiten - To proceed, to stride, to call
+Schreiten: To proceed, to stride, to call
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -306,7 +306,7 @@ Schreiten - To proceed, to stride, to call
 | ihr       | schreitet     |
 | Sie       | schreiten     |
 
-Sehen - To see
+Sehen: To see
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -317,7 +317,7 @@ Sehen - To see
 | ihr       | seht          |
 | Sie       | sehen         |
 
-Studieren - To study
+Studieren: To study
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -334,7 +334,7 @@ Studieren - To study
 
 ## V
 
-Verbessern - To improve
+Verbessern: To improve
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -345,7 +345,7 @@ Verbessern - To improve
 | ihr       | verbessert    |
 | Sie       | verbessern    |
 
-Vergessen - To forget
+Vergessen: To forget
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -356,7 +356,7 @@ Vergessen - To forget
 | ihr       | vergesst      |
 | Sie       | vergessn      |
 
-Versprechen - To promise
+Versprechen: To promise
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -367,7 +367,7 @@ Versprechen - To promise
 | ihr       | versprecht    |
 | Sie       | versprechen   |
 
-Warten - To wait
+Warten: To wait
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -378,7 +378,7 @@ Warten - To wait
 | ihr       | wartet        |
 | Sie       | warten        |
 
-Werden - To will, become, get, grow, turnm turn into, be, going to be, and go
+Werden: To will, become, get, grow, turnm turn into, be, going to be, and go
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|
@@ -389,7 +389,7 @@ Werden - To will, become, get, grow, turnm turn into, be, going to be, and go
 | ihr       | werdet        |
 | Sie       | werden        |
 
-Wohnen - To live
+Wohnen: To live
 
 | Pronoun   | Konjugation   |
 |-----------|---------------|

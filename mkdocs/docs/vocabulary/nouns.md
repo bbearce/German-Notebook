@@ -1,5 +1,6 @@
 ## A
 
+Adverb (Das): adverb
 Apotheke (Die): Pharmacy, drugstore, chemist's shop  
 
 ## B

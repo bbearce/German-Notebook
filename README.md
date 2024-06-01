@@ -9,7 +9,8 @@ So there are 2 branches:
 ## Python, Poetry and Deploy
 I used Pyenv:
 ```bash
-pyenv activate german-notebook
+pyenv activate german-notebook # some other computer I guess
+pyenv activate mkdocs-german # fav laptop
 # Initial poetry setup
 poetry config --list
 poetry config virtualenvs.create false
